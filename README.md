@@ -50,7 +50,37 @@ Ejecutar procesos del sistema
 
 
 
-Versión portátil
-Acceder a bases de datos
+
+
+
+
+
+
+Concepto DEMO "Diario Interactivo “Constelaciones de Ideas”
+
+En lugar de notas cuadradas, cada nota es como una estrella o una burbuja, y puedes:
+Cambiar la forma de la nota según el estado de ánimo:
+
+Círculo amarillo = día feliz
+
+Gota azul = día triste
+Triángulo rojo = día intenso/pasión
+Cada nota puede tener texto corto, emoji o dibujo.
+
+Funcionalidades diferenciales
+
+Notas visuales y dinámicas: no solo texto, sino doodles rápidos o íconos.
+Mapa interactivo: el diario se ve como un lienzo infinito donde organizas recuerdos.
+Modo narrativa: puedes reproducir tus notas como una “línea de tiempo animada” que cuenta tu mes/semana.
+Exportación artística: guardar una “foto” de tu constelación de notas para compartir.
+
+Estética
+
+Estilo minimalista con partículas animadas.
+Colores suaves que cambian según tu estado de ánimo.
+Animaciones tipo “burbuja flotante” o “estrella brillante”.
+
+
+
 
 Usar paquetes de npm
