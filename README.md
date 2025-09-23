@@ -49,61 +49,6 @@ Leer y escribir archivos
 Ejecutar procesos del sistema
 
 
-Posible DEMO:
-
-🚀 Alcance Demo para una App con Electron
-📝 Nombre del demo:
-
-"Notas Rápidas" (o QuickNotes)
-
-🎯 Objetivo:
-
-Crear una aplicación de escritorio multiplataforma sencilla que permita a los usuarios crear, guardar y eliminar notas de texto, todo dentro de una interfaz amigable.
-
-📦 Funcionalidades del demo
-Función	Descripción
-🧾 Crear nota	El usuario puede escribir una nota en un área de texto
-💾 Guardar nota	La nota se guarda localmente en el disco del usuario (ej. en un archivo .txt o .json)
-🗑️ Eliminar nota	Permite borrar una nota existente
-📂 Cargar notas	Al abrir la app, se muestran las notas guardadas previamente
-💡 Tema claro/oscuro (opcional)	Cambiar entre tema claro y oscuro
-🧱 Tecnologías usadas
-
-Electron: para crear la app de escritorio
-
-HTML/CSS/JS: para la interfaz
-
-Node.js (fs module): para leer/escribir archivos en el sistema
-
-(Opcional) Bootstrap o Tailwind: para estilos rápidos y modernos
-
-🖼️ Estructura básica del proyecto
-notas-app/
-├── main.js             ← Proceso principal de Electron
-├── index.html          ← Interfaz de usuario
-├── renderer.js         ← Lógica de la UI
-├── notas.json          ← Archivo donde se guardan las notas
-├── package.json        ← Configuración del proyecto
-
-✅ ¿Qué muestra este demo?
-
-Cómo iniciar una app con Electron
-
-Cómo combinar frontend (HTML, JS) con acceso al sistema (Node.js)
-
-Cómo guardar datos localmente en el disco
-
-Cómo organizar un proyecto básico
-
-🧠 Posibles mejoras futuras (fuera del alcance demo)
-
-Autoguardado
-
-Notas con títulos o etiquetas
-
-Sincronización en la nube
-
-Editor de texto enriquecido (Markdown)
 
 Versión portátil
 Acceder a bases de datos
